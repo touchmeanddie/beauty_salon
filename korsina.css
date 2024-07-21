@@ -1,0 +1,100 @@
+input.form-control.imy {
+    width: 300px;
+    height: 50px;
+    font-family: 'Noto sans', sans-serif; 
+    font-weight: 450; 
+    color: #969696; 
+    font-size: 20px;
+
+    margin-top: 30px;
+}
+
+.form-select.form-select-lg.mb-3 {
+    width: 300px;
+    height: 50px;
+    font-family: 'Noto sans', sans-serif; 
+    font-weight: 450; 
+    color: #969696; 
+    font-size: 20px;
+
+    margin-top: 30px;
+}
+
+input.form-control.imy::placeholder {
+    width: 300px;
+    font-family: 'Noto sans', sans-serif; 
+    font-weight: 450; 
+    color: #969696; 
+    font-size: 20px;
+}
+
+.col {
+    position: relative;
+
+}
+
+.row1 {
+    display: flex;
+    width: 300px;
+}
+
+.form-check {
+    margin-left: 150px;
+    border: #000000 solid 2px;
+    width: 350px;
+    height: 60px;
+}
+
+.form-check-label {
+    font-family: 'Noto sans', sans-serif; 
+    font-weight: 550; 
+    color: #000000; 
+    font-size: 20px;
+    margin-top: 12px;
+    margin-left: 10px;
+}
+
+#validationFormCheck2 {
+    position: relative;
+    margin-top: 18px;
+    margin-left: -5px;
+}
+
+#validationFormCheck3 {
+    position: relative;
+    margin-top: 18px;
+    margin-left: -5px;
+}
+
+.check {
+    margin-top: 70px;
+}
+
+.btnzakaz {
+    background-color: black;
+    border-radius: 0;
+    width: 350px;
+    height: 60px;
+    font-family: 'Yeseva One', sans-serif;  
+    font-weight: 550; 
+    color: #ffffff; 
+    font-size: 20px;
+    margin-top: 150px;
+    margin-left: 320px;
+}
+
+.textzapis { 
+    font-family: 'Noto sans', sans-serif; 
+    font-weight: 750; 
+    color: #000000; 
+    font-size: 20px;
+    position: relative; 
+    left: 590px; 
+    top: 20px;
+    text-decoration: none;
+}
+
+.form-check-input:checked {
+    background-color: #c2a69d;
+    border-color: #c2a69d; 
+}

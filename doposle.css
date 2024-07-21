@@ -1,0 +1,43 @@
+.rect1 {
+    width: 100%;
+    height: 500px;
+    background-color: #f0f0f0;
+    margin-top: 50px;
+    box-shadow: -2px -1px 23px rgba(0, 0, 0, 0.3);
+    display: flex;
+}
+
+.rect2 {
+    width: 100%;
+    height: 500px;
+    display: flex;
+}
+
+.rect3 {
+    width: 100%;
+    height: 500px;
+    background-color: #f0f0f0;
+    box-shadow: -2px -1px 23px rgba(0, 0, 0, 0.3);
+    display: flex;
+    margin-bottom: 50px;
+}
+
+.img12 {
+    width: 950px;
+    height: 320px;
+    margin-left: 160px;
+    margin-top: 90px;
+}
+
+.text16 {
+    font-family: 'Yeseva One', sans-serif; 
+    font-weight: 550; 
+    color: #585858; 
+    font-size: 62px;  
+    position: relative; 
+    writing-mode: vertical-rl;
+    text-decoration: none;
+    margin-top: 75px;
+    margin-left: 130px;
+}
+

@@ -1,0 +1,105 @@
+.mastername {
+    display: flex;
+}
+
+.imgmas {
+    position: relative;
+    margin-left: 200px;
+    margin-top: 70px;
+    border: #0d6efd solid 3px;
+    border-radius: 301px;
+}
+
+.text12 {
+    font-family: 'Yeseva One', sans-serif; 
+    font-weight: 550; 
+    color: #565555; 
+    font-size: 65px; 
+    position: relative;
+    text-decoration: none;
+    left: 120px;
+    top: 150px;
+}
+
+.imgmas1 {
+    margin-top: -15px;
+}
+
+.text13 {
+    font-family: 'Noto sans', sans-serif; 
+    text-align: center; 
+    font-weight: 400; 
+    font-size: 20px;
+    text-decoration: none;
+    color: #585858;
+    margin-left: 10px;
+}
+
+.text-container5 {
+    position: relative;
+    margin-top: 150px;
+    margin-left: 120px;
+}
+
+.text-container6 {
+    position: relative;
+    
+    margin-left: 120px;
+}
+
+.text-container7 {
+    position: relative;
+    display: flex;
+    margin-left: 120px;
+}
+
+.infomast {
+    position: relative;
+    left: -50px;
+}
+
+.imgmas2 {
+    margin-top: 35px;
+}
+
+.text14 {
+    font-family: 'Noto sans', sans-serif; 
+    text-align: center; 
+    font-weight: 400; 
+    font-size: 20px;
+    text-decoration: none;
+    color: #585858;
+    margin-left: 0px;
+}
+
+.mastername {
+    position: relative;
+}
+
+.imgmas3 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1; 
+}
+
+.imgmas, .infomast, .text-container5, .text-container6, .text-container7 {
+    position: relative;
+    z-index: 1; 
+}
+
+.text15 {
+    position: relative;
+    left: 350px;
+    top: 0;
+    font-family: 'Yeseva One', sans-serif; 
+    font-weight: 550; 
+    color: #565555; 
+    font-size: 65px; 
+    position: relative;
+    text-decoration: none;
+}
+
+.porfolio {
+    display: flex;
+}

@@ -1,0 +1,163 @@
+.btn.btn-outline-primary.btnshop {
+    --bs-btn-color: #c2a69d;
+    --bs-btn-border-color: #c2a69d;
+    --bs-btn-hover-color: #fff;
+    --bs-btn-hover-bg: #c2a69d;
+    --bs-btn-hover-border-color: #c2a69d;
+    --bs-btn-focus-shadow-rgb: 13, 110, 253;
+    --bs-btn-active-color: #fff;
+    --bs-btn-active-bg: #c2a69d;
+    --bs-btn-active-border-color: #c2a69d;
+    --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+    --bs-btn-disabled-color: #c2a69d;
+    --bs-btn-disabled-bg: transparent;
+    --bs-btn-disabled-border-color: #c2a69d;
+    --bs-gradient: none;
+}
+
+.btn.btn-outline-primary.btnshop:hover {
+    background-color: #c2a69d;
+    color: #ffffff;
+}
+
+.btn.btn-outline-primary.btnshop1 {
+    --bs-btn-color: #c2a69d;
+    --bs-btn-border-color: #c2a69d;
+    --bs-btn-hover-color: #fff;
+    --bs-btn-hover-bg: #c2a69d;
+    --bs-btn-hover-border-color: #c2a69d;
+    --bs-btn-focus-shadow-rgb: 13, 110, 253;
+    --bs-btn-active-color: #fff;
+    --bs-btn-active-bg: #c2a69d;
+    --bs-btn-active-border-color: #c2a69d;
+    --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+    --bs-btn-disabled-color: #c2a69d;
+    --bs-btn-disabled-bg: transparent;
+    --bs-btn-disabled-border-color: #c2a69d;
+    --bs-gradient: none;
+    width: 250px;
+    font-size: 22px;
+    position: relative; 
+    left: 630px; 
+    top: -110px;
+}
+
+.btn.btn-outline-primary.btnshop1:hover {
+    background-color: #c2a69d;
+    color: #ffffff;
+}
+
+.aksii {
+    display: flex;
+    position: relative;
+    z-index: 1;
+}
+
+
+.aksii1 {
+    position: relative;
+    margin-left: 130px;
+    margin-top: 70px;
+}
+
+.content4 {
+    position: relative;
+    left: -170px;
+    top: 105px;
+}
+
+.background-image5 {
+    position: absolute;
+    top: 80px;
+    left: 0;
+    width: 100%;
+    height: 600px;
+    z-index: 0;
+    object-fit: cover; /* Это свойство позволяет изображению масштабироваться, сохраняя его пропорции */
+}
+
+.aksii1, .content4, .btnshop, .btnshop1 {
+    position: relative;
+    z-index: 2; /* Это позволяет элементам быть выше фонового изображения */
+}
+
+.card {
+    --bs-card-spacer-y: 1rem;
+    --bs-card-spacer-x: 1rem;
+    --bs-card-title-spacer-y: 0.5rem;
+    --bs-card-title-color: ;
+    --bs-card-subtitle-color: ;
+    --bs-card-border-width: var(--bs-border-width);
+    --bs-card-border-color: var(--bs-border-color-translucent);
+    --bs-card-border-radius: var(--bs-border-radius);
+    --bs-card-box-shadow: -2px -1px 23px rgba(0, 0, 0, 0.3);
+    --bs-card-inner-border-radius: calc(var(--bs-border-radius) - (var(--bs-border-width)));
+    --bs-card-cap-padding-y: 0.5rem;
+    --bs-card-cap-padding-x: 1rem;
+    --bs-card-cap-bg: rgba(var(--bs-body-color-rgb), 0.03);
+    --bs-card-cap-color: ;
+    --bs-card-height: ;
+    --bs-card-color: ;
+    --bs-card-bg: var(--bs-body-bg);
+    --bs-card-img-overlay-padding: 1rem;
+    --bs-card-group-margin: 0.75rem;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    height: var(--bs-card-height);
+    color: var(--bs-body-color);
+    word-wrap: break-word;
+    background-color: var(--bs-card-bg);
+    background-clip: border-box;
+    border: black 4px solid;
+    border-radius: 19px;
+}
+
+.card-img-top {
+    width: 200px;
+    height: 260px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.card-title {
+    font-family: 'Noto sans', sans-serif; 
+    text-align: center; 
+    font-weight: bold; 
+    font-size: 20px
+}
+
+.bi.bi-heart {
+    color: #c2a69d;
+}
+
+.card-body1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.card-footer1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px; 
+    margin-top: 10px; 
+}
+
+.icon-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 10px;
+}
+
+.icon-container svg {
+    width: 35px;
+    height: 35px;
+}
+ 

@@ -1,0 +1,117 @@
+.zapis {
+    font-family: 'Yeseva One', sans-serif; 
+    font-weight: 550; 
+    color: #565555; 
+    font-size: 82px; 
+    position: relative;
+    margin-left: 600px;
+    margin-top: 30px;
+    text-decoration: none;
+}
+
+input.form-control.imy {
+    width: 300px;
+    height: 50px;
+    font-family: 'Noto sans', sans-serif; 
+    font-weight: 450; 
+    color: #969696; 
+    font-size: 20px;
+    margin-left: 400px;
+    margin-top: 20px;
+}
+
+.form-select.form-select-lg.mb-3 {
+    width: 300px;
+    height: 50px;
+    font-family: 'Noto sans', sans-serif; 
+    font-weight: 450; 
+    color: #969696; 
+    font-size: 20px;
+    margin-left: 400px;
+    margin-top: 20px;
+}
+
+input.form-control.imy::placeholder {
+    width: 300px;
+    font-family: 'Noto sans', sans-serif; 
+    font-weight: 450; 
+    color: #969696; 
+    font-size: 20px;
+}
+
+.col.inform {
+    position: relative;
+    margin-left: 400px;
+    margin-top: 70px;
+    display: flex;
+}
+
+.datepicker {
+    width: 400px;
+    height: 300px;
+    margin-left: 40px;
+    margin-top: 20px;
+    font-family: 'Noto sans', sans-serif; 
+    font-weight: 450; 
+    color: #969696; 
+}
+
+.time1 {
+    font-family: 'Noto sans', sans-serif; 
+    font-weight: 550; 
+    color: #565555; 
+    font-size: 22px;  
+    position: relative;
+    margin-top: -20px;
+    margin-left: 660px;
+}
+
+.btn.btn-outline-primary.time {
+    font-family: 'Noto sans', sans-serif; 
+    font-weight: bold; 
+    border-radius: 25px; 
+    border-width: 3px; 
+    border: none; 
+    width: 100px; 
+    height: 45px; 
+    font-size: 20px; 
+    text-orientation: upright; 
+    position: relative;
+    padding: 0;
+    margin-right: 0;
+    
+}
+
+.timebtns {
+    display: flex;
+    margin-left: 605px;
+    margin-top: 20px;
+}
+
+.btn.btn-outline-primary {
+    margin-right: 0;
+    margin-right: 0;
+    width: 150px;
+    border-radius: 25px; 
+    border-width: 3px; 
+    border:#0d6efd 3px solid;
+}
+
+.btnotpr {
+    font-family: 'Noto sans', sans-serif; 
+    font-weight: bold; 
+    border-radius: 25px; 
+    border-width: 3px; 
+    width: 170px; 
+    height: 45px; 
+    font-size: 20px; 
+    text-orientation: upright; 
+    position: relative;
+    margin-left: 680px;
+    margin-top: 20px;
+}
+
+.zapis1 {
+    display: flex;
+    margin-left: 70px;
+}
